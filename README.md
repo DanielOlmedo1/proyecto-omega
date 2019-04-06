@@ -1,2 +1,2 @@
 # proyecto-omega
-Proyecto de 
+Proyecto de fin de semestre para COM-22105 Sistemas Distribuidos.
